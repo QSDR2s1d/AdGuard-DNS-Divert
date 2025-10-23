@@ -1,10 +1,10 @@
 # AdGuard Home DNS 分流配置 - 黑名单模式（逐条规则）
-# 自动生成于 2025-10-23 21:02:56
+# 自动生成于 2025-10-23 21:07:29
 # 黑名单模式：命中国外域名走国外DNS，其他走国内DNS
 # 包含自定义域名DNS规则
 
 # 默认上游DNS服务器（国内）
-quic://dns.alidns.com
+quic://dns.alidns.com:853
 https://doh.360.cn:443
 https://sm2.doh.pub:443/dns-query
 h3://d2767290.6.00p.net:443/gd/h572767290
