@@ -1,5 +1,5 @@
 # AdGuard Home DNS 分流配置 - 黑名单模式（逐条规则）
-# 自动生成于 2025-10-24 09:40:00
+# 自动生成于 2025-10-24 21:21:35
 # 黑名单模式：命中国外域名走国外DNS，其他走国内DNS
 # 包含自定义域名DNS规则
 
@@ -65,7 +65,7 @@ h3://d2767290.6.00p.net:443/gd/h572767290
 [/youku.com/]https://dns.alidns.com/dns-query
 
 #==================================================
-# 国外域名规则（共 32830 个域名，逐条规则）
+# 国外域名规则（共 33331 个域名，逐条规则）
 # 已排除 19 个自定义DNS域名（含通配符模糊覆盖）
 #==================================================
 [/000webhost.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
@@ -261,6 +261,7 @@ h3://d2767290.6.00p.net:443/gd/h572767290
 [/1mobile.tw/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/1monsterbeatsbydreus.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/1password.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/1password.drift.click/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/1point3acres.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/1pondo.tv/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/1pornlist.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
@@ -379,6 +380,12 @@ h3://d2767290.6.00p.net:443/gd/h572767290
 [/3dfuckhouse.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/3dhentai.tv/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/3dhentaix.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/3dns-1.adobe.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/3dns-2.adobe.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/3dns-3.adobe.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/3dns-4.adobe.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/3dns-5.adobe.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/3dns.adobe.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/3drules.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/3dsexgames.biz/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/3dsexmovies.biz/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
@@ -709,10 +716,12 @@ h3://d2767290.6.00p.net:443/gd/h572767290
 [/a-normal-day.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/a-tap.ac.uk/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/a-teenz.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/a.ppy.sh/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/a0pple.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/a1av.xyz/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/a248.e.akamai.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/a2z.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/a4e8s8k3.map2.ssl.hwcdn.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/a5.com.ru/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/a7sex.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/aa1141.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
@@ -910,6 +919,13 @@ h3://d2767290.6.00p.net:443/gd/h572767290
 [/actalis.it/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/actfortibet.org/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/actimes.com.au/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/activate-sea.adobe.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/activate-sjc0.adobe.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/activate.adobe.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/activate.wip1.adobe.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/activate.wip2.adobe.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/activate.wip3.adobe.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/activate.wip4.adobe.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/activatelearning.ac.uk/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/activelearnprimary.co.uk/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/activelearnprimary.com.au/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
@@ -989,6 +1005,11 @@ h3://d2767290.6.00p.net:443/gd/h572767290
 [/admob.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/adobe-aemassets-value.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/adobe-audience-finder.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/adobe-dns-1.adobe.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/adobe-dns-2.adobe.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/adobe-dns-3.adobe.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/adobe-dns-4.adobe.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/adobe-dns.adobe.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/adobe-video-partner-finder.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/adobe.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/adobe.io/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
@@ -1479,6 +1500,8 @@ h3://d2767290.6.00p.net:443/gd/h572767290
 [/alivevue.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/aljazeera.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/aljazeera.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/alkalicore-pa.clients6.google.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/alkalimakersuite-pa.clients6.google.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/alkasir.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/all-sex-links.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/all3dsexpics.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
@@ -1592,6 +1615,14 @@ h3://d2767290.6.00p.net:443/gd/h572767290
 [/alsod.ac.uk/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/alt.ac.uk/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/alt.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/alt1-mtalk.google.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/alt2-mtalk.google.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/alt3-mtalk.google.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/alt4-mtalk.google.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/alt5-mtalk.google.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/alt6-mtalk.google.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/alt7-mtalk.google.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/alt8-mtalk.google.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/altera.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/alteraforum.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/alteraforums.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
@@ -1784,6 +1815,7 @@ h3://d2767290.6.00p.net:443/gd/h572767290
 [/amoiist.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/amourangels.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/amp/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/amp.akamaized.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/amp.dev/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/amplifi.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/amplifyapp.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
@@ -1843,6 +1875,7 @@ h3://d2767290.6.00p.net:443/gd/h572767290
 [/andovercollege.ac.uk/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/android-x86.org/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/android.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/android.googlesource.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/androidapksfree.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/androidauthority.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/androidfilehost.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
@@ -1966,6 +1999,7 @@ h3://d2767290.6.00p.net:443/gd/h572767290
 [/aocc.ac.uk/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/aod-dash-uk-live.akamaized.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/aod-hls-uk-live.akamaized.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/aod-pod-uk-live.akamaized.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/aofriend.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/aofriend.com.au/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/aojiao.org/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
@@ -2040,6 +2074,7 @@ h3://d2767290.6.00p.net:443/gd/h572767290
 [/apkplz.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/apkpure.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/apkpure.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/apl-hamivideo.cdn.hinet.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/aple.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/aplestore.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/aplleipods.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
@@ -2109,6 +2144,7 @@ h3://d2767290.6.00p.net:443/gd/h572767290
 [/apple-pay.wang/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/apple-store.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/apple-store.wang/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/apple-tv-plus-press.apple.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/apple-usa.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/apple.ae/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/apple.at/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
@@ -2544,6 +2580,8 @@ h3://d2767290.6.00p.net:443/gd/h572767290
 [/arxiv.org/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/arzon.jp/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/as/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/as-dash-uk-live.akamaized.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/as-hls-uk-live.akamaized.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/as-hp.ca/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/asacp.org/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/asagaku.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
@@ -2654,6 +2692,7 @@ h3://d2767290.6.00p.net:443/gd/h572767290
 [/assemblesystems.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/assesphoto.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/assets.bwbx.io/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/assets.ppy.sh/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/assets1.xboxlive.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/assets2.xboxlive.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/assetsadobe.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
@@ -2770,6 +2809,8 @@ h3://d2767290.6.00p.net:443/gd/h572767290
 [/audible.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/audiencenetwork.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/audiencenetwork.tv/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/audio-ak-spotify-com.akamaized.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/audio4-ak-spotify-com.akamaized.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/audiobeatsau.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/audiobeatsbydre.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/audiomonsterbeatsonline.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
@@ -2953,6 +2994,7 @@ h3://d2767290.6.00p.net:443/gd/h572767290
 [/avail.googleflights.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/avant.ac.uk/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/avatara.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/avatargarenanow-a.akamaihd.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/avbebe.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/avbody.tv/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/avcar.vip/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
@@ -3392,6 +3434,7 @@ h3://d2767290.6.00p.net:443/gd/h572767290
 [/bbqm1.xyz/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/bbs-cove.ac.uk/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/bbs-tw.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/bbs.boingboing.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/bbs.brockbbs.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/bbs.cantonese.asia/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/bbs.ecstart.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
@@ -3454,8 +3497,10 @@ h3://d2767290.6.00p.net:443/gd/h572767290
 [/bcomstudents.ac.uk/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/bcot.ac.uk/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/bcove.video/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/bcovlive-a.akamaihd.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/bcovlive.io/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/bcrncdn.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/bcsecure01-a.akamaihd.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/bctcs.ac.uk/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/bcu.ac.uk/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/bcuc.ac.uk/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
@@ -4136,6 +4181,7 @@ h3://d2767290.6.00p.net:443/gd/h572767290
 [/bingo/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/bingparachute.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/bingsandbox.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/bingsettingssearch.trafficmanager.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/bingvisualsearch.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/bingworld.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/binoculus.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
@@ -4284,6 +4330,7 @@ h3://d2767290.6.00p.net:443/gd/h572767290
 [/blizzard.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/blizzard.nefficient.co.kr/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/blizzardgearstore.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/blizzcon-a.akamaihd.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/blms.ac.uk/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/blob.core.windows.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/blockcast.it/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
@@ -4495,6 +4542,10 @@ h3://d2767290.6.00p.net:443/gd/h572767290
 [/blws.ac.uk/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/blylq.buzz/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/blz-contentstack.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/blzddist1-a.akamaihd.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/blzddistkr1-a.akamaihd.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/blzmedia-a.akamaihd.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/blznav.akamaized.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/bm/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/bm14.ac.uk/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/bmac.ac.uk/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
@@ -4912,6 +4963,9 @@ h3://d2767290.6.00p.net:443/gd/h572767290
 [/bnac.ac.uk/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/bnbstatic.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/bnef.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/bnetcmsus-a.akamaihd.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/bnetproduct-a.akamaihd.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/bnetshopus.akamaized.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/bnews.co/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/bnext.com.tw/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/bnl/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
@@ -5209,6 +5263,7 @@ h3://d2767290.6.00p.net:443/gd/h572767290
 [/bridgwater.ac.uk/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/briefdream.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/brightcove.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/brightcove.imgix.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/brightcove.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/brightcove.services/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/brightcovecdn.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
@@ -5531,6 +5586,7 @@ h3://d2767290.6.00p.net:443/gd/h572767290
 [/byapps.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/bybdc6.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/bybeatsdre.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/bybit-exchange.github.io/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/bybit-global.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/bybit.ada.support/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/bybit.biz/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
@@ -5549,6 +5605,7 @@ h3://d2767290.6.00p.net:443/gd/h572767290
 [/bypasscensorship.org/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/byrut.org/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/byspotify.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/bytedance.map.fastly.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/byteoversea.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/bytick.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/byzantine-ahrb-centre.ac.uk/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
@@ -5562,6 +5619,7 @@ h3://d2767290.6.00p.net:443/gd/h572767290
 [/c-span.org/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/c-spanvideo.org/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/c.mi.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/c.ppy.sh/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/c0930.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/c100tibet.org/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/c2cx.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
@@ -6102,6 +6160,7 @@ h3://d2767290.6.00p.net:443/gd/h572767290
 [/cdn.assets.lfpcontent.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/cdn.helixstudios.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/cdn.js7k.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/cdn.jsdelivr.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/cdn.jwplayer.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/cdn.optimizely.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/cdn.printfriendly.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
@@ -6114,6 +6173,7 @@ h3://d2767290.6.00p.net:443/gd/h572767290
 [/cdn77.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/cdn77.org/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/cdnews.com.tw/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/cdngarenanow-a.akamaihd.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/cdninstagram.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/cdnjs.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/cdnlab.live/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
@@ -6483,6 +6543,7 @@ h3://d2767290.6.00p.net:443/gd/h572767290
 [/chinamz.org/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/chinanewscenter.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/chinapost.com.tw/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/chinapower.csis.org/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/chinapress.com.my/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/chinarightsia.org/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/chinasex.com.es/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
@@ -6646,6 +6707,7 @@ h3://d2767290.6.00p.net:443/gd/h572767290
 [/ciscolearningsociety.org/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/ciscolearningsystem.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/ciscolive.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/ciscolivehls-i.akamaihd.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/cisconetapp.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/cisconetspace.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/cisconetspace.info/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
@@ -6773,6 +6835,8 @@ h3://d2767290.6.00p.net:443/gd/h572767290
 [/clickserver.googleads.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/clien.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/client-api.arkoselabs.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/client-teamviewer-com.trafficmanager.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/clients1.google.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/cliffcollege.ac.uk/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/climate-lab-book.ac.uk/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/climate-server.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
@@ -6859,6 +6923,7 @@ h3://d2767290.6.00p.net:443/gd/h572767290
 [/cloudn.me/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/cloudproxy.app/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/cloudrobotics.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/cloudsync-prod.s3.amazonaws.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/cloudvolumes.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/cloudworks.ac.uk/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/cloudyzgirl.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
@@ -7141,6 +7206,7 @@ h3://d2767290.6.00p.net:443/gd/h572767290
 [/conductus.ac.uk/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/conel.ac.uk/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/confetti.ac.uk/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/configuration-lb.ls-apple.com.akadns.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/conform.ac.uk/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/confuciusinstitute.ac.uk/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/connaissancesfinancierespratiques.ca/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
@@ -7458,6 +7524,7 @@ h3://d2767290.6.00p.net:443/gd/h572767290
 [/cshive.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/cshl.ac.uk/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/csifund.org/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/csis-prod.s3.amazonaws.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/csis.org/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/csm.ac.uk/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/csmen.ac.uk/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
@@ -7671,20 +7738,43 @@ h3://d2767290.6.00p.net:443/gd/h572767290
 [/d0z.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/d100.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/d151l6v8er5bdm.cloudfront.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/d1g1f25tn8m2e6.cloudfront.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/d1k2us671qcoau.cloudfront.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/d1m7jfoe9zdc1j.cloudfront.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/d1mhjrowxxagfy.cloudfront.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/d1oca24q5dwo6d.cloudfront.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/d1sgwhnao7452x.cloudfront.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/d1v5ir2lpwr8os.cloudfront.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/d1w2poirtb3as9.cloudfront.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/d1xfray82862hr.cloudfront.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/d1xhnb4ptk05mw.cloudfront.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/d1ymi26ma8va5x.cloudfront.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/d22qjgkvxw22r6.cloudfront.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/d25xi40x97liuc.cloudfront.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/d27xxe7juh1us6.cloudfront.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/d29vzk4ow07wi7.cloudfront.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/d2aba1wr3818hz.cloudfront.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/d2anahhhmp1ffz.cloudfront.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/d2bay.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/d2dylwb3shzel1.cloudfront.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/d2e2de1etea730.cloudfront.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/d2mrry2to5rg.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/d2nvs31859zcd8.cloudfront.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/d2pass.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/d2um2qdswy1tb0.cloudfront.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/d2vjef5jvl6bfs.cloudfront.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/d2xmjdvx03ij56.cloudfront.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/d3196yreox78o9.cloudfront.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/d33wubrfki0l68.cloudfront.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/d349g9zuie06uo.cloudfront.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/d36nr0u3xmc4mm.cloudfront.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/d3aqoihi2n8ty8.cloudfront.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/d3c27h4odz752x.cloudfront.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/d3c7rimkq79yfu.cloudfront.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/d3r7nsslvs6aaf.cloudfront.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/d3vd9lfkzbru3h.cloudfront.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/d6d4ismr40iw.cloudfront.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/d6tizftlrpuof.cloudfront.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/d9.flashtalking.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/da-files.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/da3dsoul.dev/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
@@ -7818,11 +7908,13 @@ h3://d2767290.6.00p.net:443/gd/h572767290
 [/data.flurry.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/data.gov.tw/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/databank.worldbank.org/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/database.asahi.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/datafuturesalphapilot.ac.uk/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/datagrid.ac.uk/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/datalabour.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/dataliberation.org/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/datalore.io/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/datarouter.apps.netherrealm.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/datasheets360.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/datashield.ac.uk/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/datasig.ac.uk/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
@@ -7868,6 +7960,7 @@ h3://d2767290.6.00p.net:443/gd/h572767290
 [/dcmilitary.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/dct.ac.uk/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/dctbeatsbydre.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/ddacn6pr5v0tl.cloudfront.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/ddc.com.tw/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/ddd-smart.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/ddex.io/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
@@ -7963,6 +8056,7 @@ h3://d2767290.6.00p.net:443/gd/h572767290
 [/dell/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/dell-brand.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/dell.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/dell.my.site.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/dellcdn.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/dellsupportcenter.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/delltechnologies.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
@@ -8088,6 +8182,7 @@ h3://d2767290.6.00p.net:443/gd/h572767290
 [/developer.allizom.org/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/developer.microsoft.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/developers.box.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/developers.facebook.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/developria.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/deviantart.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/deviantart.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
@@ -8113,6 +8208,7 @@ h3://d2767290.6.00p.net:443/gd/h572767290
 [/dfn.org/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/dfp6rglgjqszk.cloudfront.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/dgaqp.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/dgeft87wbj63p.cloudfront.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/dgg.gg/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/dghe.ac.uk/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/dgwav.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
@@ -8265,6 +8361,7 @@ h3://d2767290.6.00p.net:443/gd/h572767290
 [/discomax.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/disconnect.me/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/discord-activities.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/discord-attachments-uploads-prd.storage.googleapis.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/discord.co/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/discord.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/discord.design/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
@@ -8444,9 +8541,11 @@ h3://d2767290.6.00p.net:443/gd/h572767290
 [/dlercloud.org/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/dleris.best/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/dlfacebook.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/dlgarenanow-a.akamaihd.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/dlhe.ac.uk/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/dlib.eastview.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/dlive.tv/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/dlmobilegarena-a.akamaihd.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/dls.ac.uk/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/dlsite.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/dlsite.com.tw/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
@@ -8535,6 +8634,8 @@ h3://d2767290.6.00p.net:443/gd/h572767290
 [/dobendan.de/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/doc.new/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/doceapower.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/docker-images-prod.6aa30f8b08e16409b46e0173d6de2f56.r2.cloudflarestorage.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/docker-pinata-support.s3.amazonaws.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/docker.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/docker.io/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/dockerhub.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
@@ -8678,6 +8779,7 @@ h3://d2767290.6.00p.net:443/gd/h572767290
 [/dpp.org.tw/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/dpr.info/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/dpscitt.ac.uk/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/dqrpb9wgowsf5.cloudfront.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/draftjs.org/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/dragonage.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/dragonagekeep.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
@@ -8798,6 +8900,9 @@ h3://d2767290.6.00p.net:443/gd/h572767290
 [/drweb.fr/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/drweb.kz/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/drweb.uz/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/ds-linear-abematv.akamaized.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/ds-vod-abematv.akamaized.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/ds0h3roq6wcgc.cloudfront.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/dscis.ac.uk/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/dscn.info/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/dses.ac.uk/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
@@ -8821,6 +8926,7 @@ h3://d2767290.6.00p.net:443/gd/h572767290
 [/dtdns.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/dtiblog.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/dtic.mil/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/dtlgalleryint.cloudapp.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/dtsell.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/dtv/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/dtv2009offers.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
@@ -8993,6 +9099,7 @@ h3://d2767290.6.00p.net:443/gd/h572767290
 [/dxyav.co/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/dydx.exchange/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/dyfl1.pw/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/dykkng5hnh52u.cloudfront.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/dykycl.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/dynacw.co.jp/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/dynacw.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
@@ -9050,6 +9157,7 @@ h3://d2767290.6.00p.net:443/gd/h572767290
 [/e-traderland.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/e-tugra.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/e-zone.com.hk/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/e122475.dscg.akamaiedge.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/e123.hk/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/e3an.ac.uk/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/e53w.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
@@ -9058,6 +9166,7 @@ h3://d2767290.6.00p.net:443/gd/h572767290
 [/ea.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/ea.tt.omtrdc.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/eaaccess.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/eaassets-a.akamaihd.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/eablackbox.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/eac-cdn.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/eacashcard.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
@@ -9154,6 +9263,7 @@ h3://d2767290.6.00p.net:443/gd/h572767290
 [/ebahy.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/ebalovo.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/ebam.ac.uk/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/ebay-25-assets.s3-us-west-1.amazonaws.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/ebay-authenticate.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/ebay-confirm.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/ebay-course.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
@@ -9347,6 +9457,7 @@ h3://d2767290.6.00p.net:443/gd/h572767290
 [/ec/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/eca.ac.uk/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/ecampus-leeds.ac.uk/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/ecapi-pchome.cdn.hinet.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/ecc.ac.uk/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/ecchinohentai.ru/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/ecci.ac.uk/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
@@ -9724,6 +9835,7 @@ h3://d2767290.6.00p.net:443/gd/h572767290
 [/environment.google/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/epa.gov.tw/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/epac.to/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/epc-de-agent-proxy.germanywestcentral.cloudapp.azure.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/epc.ac.uk/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/epic.ac.uk/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/epicbrowser.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
@@ -9806,6 +9918,12 @@ h3://d2767290.6.00p.net:443/gd/h572767290
 [/eraysoft.com.tr/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/erbecdt.ac.uk/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/erc.ac.uk/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/ereg.adobe.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/ereg.wip.adobe.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/ereg.wip1.adobe.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/ereg.wip2.adobe.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/ereg.wip3.adobe.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/ereg.wip4.adobe.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/erepublik.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/eres.ac.uk/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/eresearchsouth.ac.uk/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
@@ -9925,6 +10043,7 @@ h3://d2767290.6.00p.net:443/gd/h572767290
 [/esds.ac.uk/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/ese.ac.uk/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/eselondon.ac.uk/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/eset-prod-ca48648d0ce7cadf.elb.eu-central-1.amazonaws.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/esg.ac.uk/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/esg.t91y.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/eshcru.ac.uk/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
@@ -9949,6 +10068,7 @@ h3://d2767290.6.00p.net:443/gd/h572767290
 [/espa.ac.uk/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/espadoldettol.com.ar/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/esperanzagomez.org/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/espn.api.edge.bamgrid.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/espn.co.uk/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/espn.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/espn.hb.omtrdc.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
@@ -10150,6 +10270,7 @@ h3://d2767290.6.00p.net:443/gd/h572767290
 [/f-droid.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/f-droid.org/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/f2pool.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/f3b7q2p3.ssl.hwcdn.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/f5pf.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/f6988.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/f8.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
@@ -10507,6 +10628,7 @@ h3://d2767290.6.00p.net:443/gd/h572767290
 [/fanbox.cc/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/fandango.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/fandom.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/fandom.zendesk.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/fanfox.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/fangbinxing.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/fangeming.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
@@ -10662,6 +10784,7 @@ h3://d2767290.6.00p.net:443/gd/h572767290
 [/fbaddins.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/fbbmarket.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/fbboostyourbusiness.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/fbcdn-a.akamaihd.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/fbcdn.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/fbcdn.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/fbf8.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
@@ -10934,9 +11057,21 @@ h3://d2767290.6.00p.net:443/gd/h572767290
 [/firearmsworld.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/firebase-settings.crashlytics.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/firebase.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/firebase.google.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/firebase.googleapis.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/firebase.io/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/firebaseapp.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/firebaseappcheck.googleapis.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/firebasedynamiclinks-ipv4.googleapis.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/firebasedynamiclinks-ipv6.googleapis.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/firebasedynamiclinks.googleapis.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/firebaseinappmessaging.googleapis.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/firebaseinstallations.googleapis.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/firebaseio.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/firebaselogging-pa.googleapis.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/firebaselogging.googleapis.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/firebaseperusertopics-pa.googleapis.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/firebaseremoteconfig.googleapis.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/firech.at/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/fireemblemawakening.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/fireflyresearch.ac.uk/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
@@ -11026,6 +11161,7 @@ h3://d2767290.6.00p.net:443/gd/h572767290
 [/flickr.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/flickrhivemind.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/flickriver.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/flightsimulator.azureedge.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/fling.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/flipboard.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/flipfap.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
@@ -11103,6 +11239,7 @@ h3://d2767290.6.00p.net:443/gd/h572767290
 [/fonts.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/fonts.googleadapis.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/fonts.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/fontshop-prod-responsive-images.s3.amazonaws.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/fontshop.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/fontsinuse.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/fontsource.org/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
@@ -11282,6 +11419,7 @@ h3://d2767290.6.00p.net:443/gd/h572767290
 [/foxnewsmagazine.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/foxnewsnetwork.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/foxnewsopinion.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/foxnewsplayer-a.akamaihd.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/foxnewspodcasts.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/foxnewspolitics.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/foxnewsradio.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
@@ -11775,6 +11913,7 @@ h3://d2767290.6.00p.net:443/gd/h572767290
 [/game735.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/gamebase.com.tw/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/gamebeforethegame.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/gamedownloads-rockstargames-com.akamaized.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/gamejolt.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/gameloft.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/gameon-masters.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
@@ -12161,6 +12300,7 @@ h3://d2767290.6.00p.net:443/gd/h572767290
 [/gift-surg.ac.uk/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/giga-web.jp/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/gigabyte.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/gigabyte2.azureedge.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/gigacircle.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/giganews.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/gigantits.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
@@ -12209,6 +12349,8 @@ h3://d2767290.6.00p.net:443/gd/h572767290
 [/gitbook.io/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/gitbooks.io/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/githack.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/github-api.arkoselabs.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/github-cloud.s3.amazonaws.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/github.blog/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/github.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/github.community/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
@@ -12224,6 +12366,7 @@ h3://d2767290.6.00p.net:443/gd/h572767290
 [/githubstatus.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/githubuniverse.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/githubusercontent.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/gitlab-assets.oss-cn-hongkong.aliyuncs.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/gitlab-static.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/gitlab.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/gitlab.io/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
@@ -12494,6 +12637,7 @@ h3://d2767290.6.00p.net:443/gd/h572767290
 [/google-access.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/google-analytics-cn.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/google-analytics.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/google-ohttp-relay-safebrowsing.fastly-edge.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/google-syndication.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/google.ac/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/google.ad/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
@@ -13144,6 +13288,8 @@ h3://d2767290.6.00p.net:443/gd/h572767290
 [/hamec.ac.uk/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/hami-mod.buzz/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/hamifans.emome.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/hamivideo.hinet.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/hammerandchisel.ssl.zendesk.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/hampsteadscience.ac.uk/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/hamsterfucktube.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/hamsterporn.tv/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
@@ -13347,6 +13493,8 @@ h3://d2767290.6.00p.net:443/gd/h572767290
 [/headphonesretailer.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/headphonessupply.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/headphonezip.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/heads-ak-spotify-com.akamaized.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/heads4-ak-spotify-com.akamaized.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/headset987.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/headteachers.ac.uk/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/health.ac.uk/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
@@ -13733,6 +13881,7 @@ h3://d2767290.6.00p.net:443/gd/h572767290
 [/hillcroft.ac.uk/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/hillsroad.ac.uk/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/hilostripper.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/himalaya-exchange.zendesk.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/himalaya.exchange/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/himalayan-foundation.org/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/himalayanglacier.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
@@ -13861,10 +14010,14 @@ h3://d2767290.6.00p.net:443/gd/h572767290
 [/hkvwet.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/hkwcc.org.hk/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/hkzone.org/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/hl2rcv.adobe.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/hlbelygl.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/hlcollege.ac.uk/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/hlg.ac.uk/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/hlnsc.ac.uk/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/hlrcv.stage.adobe.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/hls-amt.itunes.apple.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/hls.itunes.apple.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/hlsp1.pw/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/hm/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/hm.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
@@ -13899,6 +14052,7 @@ h3://d2767290.6.00p.net:443/gd/h572767290
 [/hollyrandall.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/holmelacy.ac.uk/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/hololens.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/holoxx.f5.si/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/holts.ac.uk/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/holycross.ac.uk/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/holymountaincn.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
@@ -13911,6 +14065,7 @@ h3://d2767290.6.00p.net:443/gd/h572767290
 [/home.sina.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/home.so-net.net.tw/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/homealonemilfs.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/homebrew.bintray.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/homedepot-static.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/homedepot.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/homefieldcollege.ac.uk/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
@@ -14147,6 +14302,7 @@ h3://d2767290.6.00p.net:443/gd/h572767290
 [/hpe.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/hpeclipse.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/hpecyber.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/hpefonts.s3.amazonaws.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/hpengage.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/hpeprint.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/hpeprintcenter.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
@@ -14372,6 +14528,7 @@ h3://d2767290.6.00p.net:443/gd/h572767290
 [/huaxin80.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/huaxinvip.top/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/huayuworld.org/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/hub.slarker.me/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/hubbard-theory-consortium.ac.uk/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/hubblephone.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/hud.ac.uk/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
@@ -14421,6 +14578,7 @@ h3://d2767290.6.00p.net:443/gd/h572767290
 [/hulu.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/hulu.hb.omtrdc.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/hulu.jp/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/hulu.playback.edge.bamgrid.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/hulu.sc.omtrdc.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/hulu.tv/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/hulu.us/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
@@ -15029,6 +15187,8 @@ h3://d2767290.6.00p.net:443/gd/h572767290
 [/imems.ac.uk/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/imessage.tv/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/imet.ac.uk/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/img-prod-cms-rt-microsoft-com.akamaized.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/img-s-msn-com.akamaized.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/img.dlsite.jp/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/img.ly/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/imgasd.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
@@ -15062,6 +15222,7 @@ h3://d2767290.6.00p.net:443/gd/h572767290
 [/impact.ac.uk/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/impact.org.au/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/impactdesignhub.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/impala-media-production.s3.amazonaws.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/impala.ac.uk/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/imperial.ac.uk/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/imperial.insendi.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
@@ -15156,6 +15317,7 @@ h3://d2767290.6.00p.net:443/gd/h572767290
 [/infura.io/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/infy/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/ingads.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/ingest.apple-studies.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/ingka.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/ingka.dev/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/ingkacentres.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
@@ -16983,6 +17145,7 @@ h3://d2767290.6.00p.net:443/gd/h572767290
 [/last.fm/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/lastcombat.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/lastfm.es/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/lastfm.freetls.fastly.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/lasvegasbmw.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/lat/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/latampartneruniversity.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
@@ -17008,6 +17171,7 @@ h3://d2767290.6.00p.net:443/gd/h572767290
 [/lawdata.com.tw/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/lawteacher.ac.uk/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/laxd.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/lazer.ppy.sh/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/lazymike.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/lb/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/lbank.info/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
@@ -17264,6 +17428,7 @@ h3://d2767290.6.00p.net:443/gd/h572767290
 [/libsolutions.domains/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/libsolutions.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/libsyn.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/licdn.cn.cdn20.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/licdn.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/licensebuttons.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/licenseparser.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
@@ -17353,6 +17518,7 @@ h3://d2767290.6.00p.net:443/gd/h572767290
 [/lingvodics.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/link-o-rama.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/link.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/link.theplatform.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/link19college.ac.uk/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/link2galleries.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/link2learn-ni.ac.uk/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
@@ -17500,11 +17666,13 @@ h3://d2767290.6.00p.net:443/gd/h572767290
 [/llss.me/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/llwht88.xyz/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/llysfasi.ac.uk/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/lm.licenses.adobe.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/lma.ac.uk/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/lmbru.ac.uk/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/lmc.ac.uk/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/lmd.ac.uk/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/lmi4he.ac.uk/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/lmlicenses.wip4.adobe.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/lmm167.shop/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/lmmbtc.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/lms.ac.uk/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
@@ -17570,6 +17738,7 @@ h3://d2767290.6.00p.net:443/gd/h572767290
 [/lolo.ac.uk/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/lolpcs.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/lolshop.co.kr/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/lolstatic-a.akamaihd.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/lolstatic.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/lolusercontent.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/lon.ac.uk/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
@@ -17840,6 +18009,7 @@ h3://d2767290.6.00p.net:443/gd/h572767290
 [/m.moegirl.org/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/m.plixi.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/m.slandr.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/m1.ppy.sh/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/m12.vc/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/m25lib.ac.uk/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/m2m.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
@@ -18473,6 +18643,7 @@ h3://d2767290.6.00p.net:443/gd/h572767290
 [/medhist.ac.uk/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/media-amazon.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/media-imdb.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/media-rockstargames-com.akamaized.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/media.nu.nl/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/media.org.hk/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/mediachinese.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
@@ -19164,6 +19335,7 @@ h3://d2767290.6.00p.net:443/gd/h572767290
 [/mirrorsedge.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/mirrorsedge2.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/mirrorsedge2d.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/misa-prod.s3.ap-northeast-1.amazonaws.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/misoc.ac.uk/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/missav.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/missav.uno/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
@@ -19272,6 +19444,7 @@ h3://d2767290.6.00p.net:443/gd/h572767290
 [/mobilecumbria.ac.uk/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/mobilefacebook.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/mobileinternational.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/mobilelive-hamivideo.cdn.hinet.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/mobilemarketo.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/mobileme.dk/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/mobileporngames.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
@@ -19646,6 +19819,10 @@ h3://d2767290.6.00p.net:443/gd/h572767290
 [/mt.co.kr/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/mt.lv/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/mt0011.site/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/mtalk-dev.google.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/mtalk-staging.google.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/mtalk.google.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/mtalk4.google.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/mtao.fun/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/mtec.ac.uk/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/mthruf.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
@@ -19735,6 +19912,7 @@ h3://d2767290.6.00p.net:443/gd/h572767290
 [/mwcu00.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/mwdbank.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/mwell.ac.uk/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/mwf-service.akamaized.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/mwhentai.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/mwrc.ac.uk/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/mx/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
@@ -20005,10 +20183,12 @@ h3://d2767290.6.00p.net:443/gd/h572767290
 [/na-mexico-1.myhuaweicloud.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/na-siliconvalley.myqcloud.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/na-toronto.myqcloud.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/na1r.services.adobe.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/naacoalition.org/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/naaktevrouwenporno.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/nab/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/nab.com.au/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/nab.demdex.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/nabble.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/nabtravellercard.com.au/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/nacro.ac.uk/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
@@ -21027,7 +21207,10 @@ h3://d2767290.6.00p.net:443/gd/h572767290
 [/northumbria.ac.uk/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/norwichresearchpark.ac.uk/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/nos.nl/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/notary-submissions-prod.s3-accelerate.amazonaws.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/notary-submissions-prod.s3.us-west-2.amazonaws.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/notepad-plus-plus.org/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/notify.ppy.sh/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/notion-static.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/notion.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/notion.new/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
@@ -21171,9 +21354,13 @@ h3://d2767290.6.00p.net:443/gd/h572767290
 [/ntfs.ac.uk/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/ntidagenham.ac.uk/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/ntnews.com.au/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/ntp-b.nist.gov/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/ntp-c.colorado.edu/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/ntp-d.nist.gov/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/ntp-os01.ocn.ad.jp/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/ntp-tk01.ocn.ad.jp/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/ntp-tk02.ocn.ad.jp/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/ntp-wwv.nist.gov/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/ntp.dnsbalance.ring.gr.jp/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/ntp.fiord.ru/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/ntp.jst.mfeed.ad.jp/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
@@ -21187,22 +21374,31 @@ h3://d2767290.6.00p.net:443/gd/h572767290
 [/ntp.t.ring.gr.jp/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/ntp.tohoku.ac.jp/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/ntp.tut.ac.jp/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/ntp.ubuntu.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/ntp.ufe.cz/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/ntp0.ntp-servers.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/ntp0.ring.gr.jp/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/ntp1.jst.mfeed.ad.jp/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/ntp1.ntp-servers.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/ntp1.plala.or.jp/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/ntp1.ring.gr.jp/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/ntp1.tohoku.ac.jp/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/ntp1.v6.mfeed.ad.jp/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/ntp1.wakwak.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/ntp2.jst.mfeed.ad.jp/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/ntp2.ntp-servers.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/ntp2.plala.or.jp/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/ntp2.ring.gr.jp/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/ntp2.tohoku.ac.jp/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/ntp2.v6.mfeed.ad.jp/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/ntp2.wakwak.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/ntp3.jst.mfeed.ad.jp/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/ntp3.ntp-servers.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/ntp3.v6.mfeed.ad.jp/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/ntp4.ntp-servers.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/ntp5.ntp-servers.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/ntp6.ntp-servers.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/ntp7.ntp-servers.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/ntrfun.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/ntsna.gov.tw/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/ntt/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
@@ -21318,6 +21514,7 @@ h3://d2767290.6.00p.net:443/gd/h572767290
 [/nurofen.ru/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/nurofen.sk/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/nurofengel.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/nurofensk-prod-env.eu-west-1.elasticbeanstalk.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/nurse.ac.uk/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/nurture.ac.uk/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/nurumassage.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
@@ -21527,6 +21724,7 @@ h3://d2767290.6.00p.net:443/gd/h572767290
 [/office365.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/office365love.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/office365tw.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/officecdn-microsoft-com.akamaized.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/officeforstudents.ac.uk/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/officeoftibet.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/officialbeatsbydreshop.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
@@ -21662,6 +21860,7 @@ h3://d2767290.6.00p.net:443/gd/h572767290
 [/onejav.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/onekey-asset.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/onekey.so/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/onekey.zendesk.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/onekeycn.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/onenote.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/onenote.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
@@ -21750,6 +21949,8 @@ h3://d2767290.6.00p.net:443/gd/h572767290
 [/open.spotify.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/openai.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/openaiapi-site.azureedge.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/openaicomproductionae4b.blob.core.windows.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/openallweb.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/openamt.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/openapiplatform.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
@@ -21810,6 +22011,7 @@ h3://d2767290.6.00p.net:443/gd/h572767290
 [/opera-archive.ac.uk/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/opera-mini.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/opera.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/opgg-static.akamaized.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/opinionjournal.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/opml.radiotime.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/oppai-doga.info/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
@@ -21855,6 +22057,7 @@ h3://d2767290.6.00p.net:443/gd/h572767290
 [/orientalasianporn.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/orientaldaily.com.my/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/orientalmed.ac.uk/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/origin-a.akamaihd.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/origin.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/origin.tv/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/originalhulu.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
@@ -21893,6 +22096,7 @@ h3://d2767290.6.00p.net:443/gd/h572767290
 [/ospray.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/ospray.org/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/oss-watch.ac.uk/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/osu.ppy.sh/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/osxdaily.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/otaku-168.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/otaku18a.info/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
@@ -22001,6 +22205,8 @@ h3://d2767290.6.00p.net:443/gd/h572767290
 [/ozxw.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/ozyoyo.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/p-cdn.us/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/p-events-delivery.akamaized.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/p16-tiktokcdn-com.akamaized.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/pa/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/pa9pal.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/paaypal.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
@@ -22090,6 +22296,7 @@ h3://d2767290.6.00p.net:443/gd/h572767290
 [/paoluz.link/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/paon.site/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/papalah.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/paper-attachments.s3.amazonaws.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/paper.li/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/paperb.us/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/papermc.io/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
@@ -22741,6 +22948,7 @@ h3://d2767290.6.00p.net:443/gd/h572767290
 [/pki-posta.ch/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/pki-poste.ch/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/pki.goog/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/pki.google.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/pkqjiasu.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/pkuanvil.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/pl/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
@@ -23294,6 +23502,7 @@ h3://d2767290.6.00p.net:443/gd/h572767290
 [/portsmouthuni.ac.uk/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/porzo.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/porzo.tv/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/poshtestgallery.cloudapp.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/poshtestgallery.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/positivessl.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/poskotanews.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
@@ -23358,6 +23567,7 @@ h3://d2767290.6.00p.net:443/gd/h572767290
 [/ppe.lawyer/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/pplah.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/pplusstatic.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/pplx-res.cloudinary.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/ppp91.cc/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/pppds.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/ppre.ac.uk/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
@@ -23368,6 +23578,7 @@ h3://d2767290.6.00p.net:443/gd/h572767290
 [/practicalmoneyskills.jp/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/practicum.ac.uk/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/practivate.adobe/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/practivate.adobe.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/practivate.adobe.ipp/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/practivate.adobe.newoa/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/practivate.adobe.ntp/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
@@ -23376,6 +23587,7 @@ h3://d2767290.6.00p.net:443/gd/h572767290
 [/praxi/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/prayforchina.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/prcleader.org/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/prd-priconne-redive.akamaized.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/pre-bmwgroup.jobs/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/predictivetechnologies.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/premeforwindows7.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
@@ -23387,6 +23599,7 @@ h3://d2767290.6.00p.net:443/gd/h572767290
 [/premiumpornlist.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/premobay.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/premproxy.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/preprod-publicca.googleapis.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/prepsure.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/prescribe.ac.uk/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/prescribingsafetyassessment.ac.uk/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
@@ -23477,8 +23690,10 @@ h3://d2767290.6.00p.net:443/gd/h572767290
 [/procopytips.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/proctoscopeexam.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/prod.hjholdings.tv/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/prodforza.blob.core.windows.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/prodrive-japan.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/product.co.jp/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/production-openaicom-storage.azureedge.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/productivemargins.ac.uk/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/profile.ac.uk/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/profile.line-scdn.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
@@ -23564,6 +23779,8 @@ h3://d2767290.6.00p.net:443/gd/h572767290
 [/pscp.tv/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/psds.ac.uk/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/pse.is/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/psg-int-centralus.cloudapp.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/psg-int-eastus.cloudapp.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/pshvpn.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/psigate.ac.uk/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/psiphon.ca/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
@@ -23592,6 +23809,7 @@ h3://d2767290.6.00p.net:443/gd/h572767290
 [/public-trust.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/public-us-pingsx.api.clonoth.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/publicagentxxx.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/publicca.googleapis.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/publicengagement.ac.uk/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/publichealthdepartment.info/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/publicinterest.ac.uk/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
@@ -23660,6 +23878,7 @@ h3://d2767290.6.00p.net:443/gd/h572767290
 [/pv-cdn.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/pvp.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/pvp.tv/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/pvr-hamivideo.cdn.hinet.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/pvt.sexy/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/pvue1.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/pvue2.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
@@ -24404,6 +24623,7 @@ h3://d2767290.6.00p.net:443/gd/h572767290
 [/rime.im/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/rimg.com.tw/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/rin.ac.uk/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/rink.hockeyapp.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/rinvdh7.xyz/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/rio/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/riot-games.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
@@ -24599,7 +24819,23 @@ h3://d2767290.6.00p.net:443/gd/h572767290
 [/rsms.ac.uk/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/rsp.ac.uk/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/rspao.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/rss.4040940.xyz/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/rss.datuan.dev/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/rss.littlebaby.life/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/rss.owo.nz/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/rss.wudifeixue.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/rsshub.app/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/rsshub.asailor.org/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/rsshub.email-once.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/rsshub.henry.wang/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/rsshub.isrss.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/rsshub.ktachibana.party/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/rsshub.pseudoyu.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/rsshub.rss.tips/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/rsshub.rssforever.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/rsshub.umzzz.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/rsshub.woodland.cafe/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/rsshub2.asailor.org/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/rssing.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/rssmeme.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/rstatic.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
@@ -24611,6 +24847,7 @@ h3://d2767290.6.00p.net:443/gd/h572767290
 [/rti.org.tw/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/rti.tw/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/rtings.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/rtm.tnt-ea.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/rtycminnesota.org/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/ru/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/ru-moscow-1.myhuaweicloud.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
@@ -24712,6 +24949,7 @@ h3://d2767290.6.00p.net:443/gd/h572767290
 [/sa-brazil-1.myhuaweicloud.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/sa-saopaulo.myqcloud.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/sa.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/sa78gs.wpc.edgecastcdn.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/saasexch.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/saasexch.io/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/saboom.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
@@ -24943,6 +25181,7 @@ h3://d2767290.6.00p.net:443/gd/h572767290
 [/scatville.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/scb/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/scc.ac.uk/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/scc.ott.hinet.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/sccb.ac.uk/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/sccc.ac.uk/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/sccjr.ac.uk/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
@@ -24959,6 +25198,82 @@ h3://d2767290.6.00p.net:443/gd/h572767290
 [/schemer.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/schiffvitamins.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/schml.ac.uk/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/scholar.google.ae/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/scholar.google.at/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/scholar.google.be/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/scholar.google.bg/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/scholar.google.ca/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/scholar.google.cat/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/scholar.google.ch/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/scholar.google.cl/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/scholar.google.cn/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/scholar.google.co.cr/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/scholar.google.co.id/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/scholar.google.co.il/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/scholar.google.co.in/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/scholar.google.co.jp/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/scholar.google.co.kr/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/scholar.google.co.nz/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/scholar.google.co.th/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/scholar.google.co.uk/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/scholar.google.co.ve/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/scholar.google.co.za/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/scholar.google.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/scholar.google.com.ar/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/scholar.google.com.au/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/scholar.google.com.bo/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/scholar.google.com.br/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/scholar.google.com.co/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/scholar.google.com.cu/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/scholar.google.com.do/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/scholar.google.com.ec/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/scholar.google.com.eg/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/scholar.google.com.gt/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/scholar.google.com.hk/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/scholar.google.com.ly/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/scholar.google.com.mx/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/scholar.google.com.my/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/scholar.google.com.ni/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/scholar.google.com.pa/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/scholar.google.com.pe/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/scholar.google.com.ph/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/scholar.google.com.pk/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/scholar.google.com.pr/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/scholar.google.com.py/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/scholar.google.com.sg/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/scholar.google.com.sv/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/scholar.google.com.tr/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/scholar.google.com.tw/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/scholar.google.com.ua/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/scholar.google.com.uy/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/scholar.google.com.vn/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/scholar.google.cz/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/scholar.google.de/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/scholar.google.dk/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/scholar.google.es/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/scholar.google.fi/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/scholar.google.fr/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/scholar.google.gr/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/scholar.google.hn/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/scholar.google.hr/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/scholar.google.hu/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/scholar.google.is/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/scholar.google.it/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/scholar.google.li/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/scholar.google.lt/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/scholar.google.lu/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/scholar.google.lv/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/scholar.google.nl/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/scholar.google.no/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/scholar.google.pl/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/scholar.google.pt/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/scholar.google.ro/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/scholar.google.ru/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/scholar.google.se/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/scholar.google.si/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/scholar.google.sk/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/scholar.googleusercontent.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/scholar.l.google.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/scholarpedia.org/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/scholarsschool.ac.uk/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/schome.ac.uk/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
@@ -25210,6 +25525,7 @@ h3://d2767290.6.00p.net:443/gd/h572767290
 [/sensualmothers.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/sensueel.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/sentry.io/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/sentry.ppy.sh/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/senzuritv.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/sepnet.ac.uk/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/seqing.one/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
@@ -26067,6 +26383,7 @@ h3://d2767290.6.00p.net:443/gd/h572767290
 [/sneakerpage.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/sneakerskick.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/sneakme.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/sni1dcb6gl.wpc.edgecastcdn.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/snjulebu.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/snk-corp.co.jp/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/snkplaymore.info/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
@@ -26415,6 +26732,7 @@ h3://d2767290.6.00p.net:443/gd/h572767290
 [/speakerdeck.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/spearhead.kr/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/specialtyheadphones.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/spectator.ppy.sh/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/spectraltube.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/spectrum.ac.uk/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/specxinzl.jigsy.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
@@ -26473,8 +26791,11 @@ h3://d2767290.6.00p.net:443/gd/h572767290
 [/spoti.fi/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/spotify-everywhere.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/spotify.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/spotify.com.edgesuite.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/spotify.design/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/spotify.link/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/spotify.map.fastly.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/spotify.map.fastlylb.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/spotifycdn.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/spotifycdn.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/spotifycharts.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
@@ -26562,6 +26883,7 @@ h3://d2767290.6.00p.net:443/gd/h572767290
 [/sshs.xyz/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/ssl-certificate.ch/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/ssl-images-amazon.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/ssl-lvlt.cdn.ea.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/ssl.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/ssl.webpack.de/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/ssl443.org/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
@@ -26737,6 +27059,7 @@ h3://d2767290.6.00p.net:443/gd/h572767290
 [/stateofthemap.org/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/static-cisco.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/static-economist.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/static-hamivideo.cdn.hinet.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/static-nike.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/static-verizon.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/static.comico.tw/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
@@ -26746,6 +27069,9 @@ h3://d2767290.6.00p.net:443/gd/h572767290
 [/static9.net.au/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/statically.io/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/staticflickr.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/statics-marketingsites-eas-ms-com.akamaized.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/statics-marketingsites-eus-ms-com.akamaized.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/statics-marketingsites-wcus-ms-com.akamaized.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/statistics.ac.uk/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/statsmakemecry.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/statstutor.ac.uk/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
@@ -26780,12 +27106,18 @@ h3://d2767290.6.00p.net:443/gd/h572767290
 [/steam.naeu.qtlglb.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/steam.ru.qtlglb.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/steambroadcast.akamaized.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/steamcdn-a.akamaihd.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/steamcloudsweden.blob.core.windows.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/steamcommunity-a.akamaihd.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/steamcommunity-a.akamaihd.net.edgesuite.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/steamcontent.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/steamdb.info/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/steamdeck.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/steamgames.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/steammobile.akamaized.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/steamofporn.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/steampipe-kr.akamaized.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/steampipe-partner.akamaized.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/steampipe.akamaized.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/steampowered.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/steamserver.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
@@ -26796,6 +27128,7 @@ h3://d2767290.6.00p.net:443/gd/h572767290
 [/steamusercontent-a.akamaihd.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/steamusercontent.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/steamuserimages-a.akamaihd.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/steamvideo-a.akamaihd.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/steamygamer.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/stec.ac.uk/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/steel-storm.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
@@ -26895,6 +27228,7 @@ h3://d2767290.6.00p.net:443/gd/h572767290
 [/straightouttasomewhere.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/straightpornstuds.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/straitstimes.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/stran.ac.uk/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/stranabg.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/straplessdildo.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
@@ -27324,6 +27658,8 @@ h3://d2767290.6.00p.net:443/gd/h572767290
 [/t.co/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/t.me/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/t.orzdream.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/t21.nikkei.co.jp/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/t21ipau.nikkei.co.jp/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/t35.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/t66y.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/t91y.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
@@ -27518,6 +27854,7 @@ h3://d2767290.6.00p.net:443/gd/h572767290
 [/teamneedforspeed.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/teamskeet.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/teamviewer.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/teamviewer.com.cdn.cloudflare.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/teamviewer.us/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/teamwork.ac.uk/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/tean.ac.uk/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
@@ -28137,6 +28474,35 @@ h3://d2767290.6.00p.net:443/gd/h572767290
 [/tilehill.ac.uk/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/tiltbrush.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/timdir.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/time-a-b.nist.gov/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/time-a-g.nist.gov/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/time-a-wwv.nist.gov/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/time-b-b.nist.gov/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/time-b-g.nist.gov/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/time-b-wwv.nist.gov/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/time-c-b.nist.gov/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/time-c-g.nist.gov/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/time-c-wwv.nist.gov/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/time-d-b.nist.gov/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/time-d-g.nist.gov/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/time-d-wwv.nist.gov/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/time-e-b.nist.gov/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/time-e-g.nist.gov/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/time-e-wwv.nist.gov/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/time.aws.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/time.cloudflare.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/time.euro.apple.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/time.facebook.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/time.nist.gov/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/time1.facebook.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/time1.google.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/time2.facebook.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/time2.google.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/time3.facebook.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/time3.google.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/time4.facebook.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/time4.google.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/time5.facebook.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/timefxapp.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/timeinc.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/timelinestoryteller.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
@@ -28703,6 +29069,7 @@ h3://d2767290.6.00p.net:443/gd/h572767290
 [/tuzaijidi.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/tv/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/tv.apple.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/tv.applemusic.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/tv.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/tv.google/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/tv.jtbc.joins.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
@@ -28718,6 +29085,7 @@ h3://d2767290.6.00p.net:443/gd/h572767290
 [/tvbusa.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/tvbweekly.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/tvc.ac.uk/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/tvcastlive-hamivideo.cdn.hinet.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/tver.co.jp/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/tver.jp/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/tvfix.org/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
@@ -28947,8 +29315,11 @@ h3://d2767290.6.00p.net:443/gd/h572767290
 [/uberproxy.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/ubertags.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/ubi.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/ubisoft-orbit-savegames.s3.amazonaws.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/ubisoft-uplay-savegames.s3.amazonaws.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/ubisoft.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/ubisoftconnect.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/ubistatic3-a.akamaihd.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/ublock.org/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/ubn.ac.uk/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/ubncloud.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
@@ -29146,6 +29517,7 @@ h3://d2767290.6.00p.net:443/gd/h572767290
 [/ull.ac.uk/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/ulol.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/ulop.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/ulrichsweb.serialssolutions.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/ulsop.ac.uk/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/ulst.ac.uk/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/ulster.ac.uk/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
@@ -29317,6 +29689,7 @@ h3://d2767290.6.00p.net:443/gd/h572767290
 [/upmg.ac.uk/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/upornia.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/uporno.xxx/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/upos-hz-mirrorakam.akamaized.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/uproxy.org/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/uptodown.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/upwill.org/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
@@ -29393,8 +29766,14 @@ h3://d2767290.6.00p.net:443/gd/h572767290
 [/usvimosquito.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/usvimosquitoproject.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/usw.ac.uk/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/ut1-time.colorado.edu/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/ut1-wwv.nist.gov/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/utcnist.colorado.edu/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/utcnist2.colorado.edu/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/utcnist3.colorado.edu/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/utcreading.ac.uk/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/utopianpal.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/uts-api.itunes.apple.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/uu-gg.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/uug22.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/uug23.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
@@ -29576,6 +29955,8 @@ h3://d2767290.6.00p.net:443/gd/h572767290
 [/vdoav.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/vds.rightster.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/ve/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/ve-dash-uk-live.akamaized.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/ve-uhd-push-uk-live.akamaized.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/vecchiescopate.casa/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/vector.im/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/veet.at/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
@@ -29643,6 +30024,7 @@ h3://d2767290.6.00p.net:443/gd/h572767290
 [/venmo.info/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/venmo.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/venmo.org/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/venmo.s3.amazonaws.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/venturebeat.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/ventureswell.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/veoh.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
@@ -29816,6 +30198,7 @@ h3://d2767290.6.00p.net:443/gd/h572767290
 [/videopediaworld.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/videopress.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/videos-f.jwpsrv.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/videos-rockstargames-com.akamaized.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/videos4sale.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/videos6.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/videosamadoresreais.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
@@ -30186,7 +30569,11 @@ h3://d2767290.6.00p.net:443/gd/h572767290
 [/vocus.cc/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/vod-abematv.akamaized.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/vod-dash-uk-live.akamaized.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/vod-dash-ww-live.akamaized.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/vod-hls-uk-live.akamaized.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/vod-sub-uk-live.akamaized.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/vod-thumb-uk-live.akamaized.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/vod-thumb-ww-live.akamaized.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/vod.wwe.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/vod360.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/vodafone.co.uk/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
@@ -30456,12 +30843,19 @@ h3://d2767290.6.00p.net:443/gd/h572767290
 [/vrsmash.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/vrsumo.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/vrv.co/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/vs-cmaf-push-uk-live.akamaized.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/vs-cmaf-pushb-ww-live.akamaized.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/vs-hls-push-uk-live.akamaized.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/vs-hls-pushb-uk-live.akamaized.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/vs.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/vsallin.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/vsassets.io/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/vsco.co/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/vscode-cdn.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/vscode-sync-insiders.trafficmanager.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/vscode-sync.trafficmanager.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/vscode-unpkg.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/vscode.blob.core.windows.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/vscode.dev/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/vscode.search.windows.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/vsezoo.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
@@ -30626,6 +31020,7 @@ h3://d2767290.6.00p.net:443/gd/h572767290
 [/waybig.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/waymo.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/waze.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/wb-agora-hydra-file-storage-k1.s3.amazonaws.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/wballiance.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/wbd.ms/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/wbdnbo.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
@@ -30667,6 +31062,7 @@ h3://d2767290.6.00p.net:443/gd/h572767290
 [/webcammedellin.co/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/webcams.tv/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/webcamtubexxx.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/webchannel-alkalimakersuite-pa.clients6.google.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/weber/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/webevader.org/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/webex.ca/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
@@ -30693,6 +31089,7 @@ h3://d2767290.6.00p.net:443/gd/h572767290
 [/webkit.org/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/webkitgtk.org/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/weblagu.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/weblive-hamivideo.cdn.hinet.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/webmoneyinfo.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/webmproject.org/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/webnovel.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
@@ -31039,6 +31436,11 @@ h3://d2767290.6.00p.net:443/gd/h572767290
 [/winudf.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/winwhispers.info/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/wionews.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/wip.adobe.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/wip1.adobe.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/wip2.adobe.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/wip3.adobe.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/wip4.adobe.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/wipower.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/wire.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/wired.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
@@ -31295,6 +31697,102 @@ h3://d2767290.6.00p.net:443/gd/h572767290
 [/wwapple.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/wwe.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/wwe9.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/wwis-dubc1-vip100.adobe.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/wwis-dubc1-vip101.adobe.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/wwis-dubc1-vip102.adobe.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/wwis-dubc1-vip103.adobe.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/wwis-dubc1-vip104.adobe.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/wwis-dubc1-vip105.adobe.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/wwis-dubc1-vip106.adobe.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/wwis-dubc1-vip107.adobe.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/wwis-dubc1-vip108.adobe.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/wwis-dubc1-vip109.adobe.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/wwis-dubc1-vip110.adobe.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/wwis-dubc1-vip111.adobe.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/wwis-dubc1-vip112.adobe.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/wwis-dubc1-vip113.adobe.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/wwis-dubc1-vip114.adobe.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/wwis-dubc1-vip115.adobe.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/wwis-dubc1-vip116.adobe.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/wwis-dubc1-vip117.adobe.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/wwis-dubc1-vip118.adobe.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/wwis-dubc1-vip119.adobe.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/wwis-dubc1-vip120.adobe.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/wwis-dubc1-vip121.adobe.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/wwis-dubc1-vip122.adobe.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/wwis-dubc1-vip123.adobe.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/wwis-dubc1-vip124.adobe.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/wwis-dubc1-vip125.adobe.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/wwis-dubc1-vip30.adobe.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/wwis-dubc1-vip31.adobe.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/wwis-dubc1-vip32.adobe.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/wwis-dubc1-vip33.adobe.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/wwis-dubc1-vip34.adobe.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/wwis-dubc1-vip35.adobe.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/wwis-dubc1-vip36.adobe.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/wwis-dubc1-vip37.adobe.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/wwis-dubc1-vip38.adobe.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/wwis-dubc1-vip39.adobe.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/wwis-dubc1-vip40.adobe.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/wwis-dubc1-vip41.adobe.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/wwis-dubc1-vip42.adobe.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/wwis-dubc1-vip43.adobe.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/wwis-dubc1-vip44.adobe.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/wwis-dubc1-vip45.adobe.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/wwis-dubc1-vip46.adobe.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/wwis-dubc1-vip47.adobe.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/wwis-dubc1-vip48.adobe.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/wwis-dubc1-vip49.adobe.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/wwis-dubc1-vip50.adobe.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/wwis-dubc1-vip51.adobe.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/wwis-dubc1-vip52.adobe.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/wwis-dubc1-vip53.adobe.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/wwis-dubc1-vip54.adobe.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/wwis-dubc1-vip55.adobe.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/wwis-dubc1-vip56.adobe.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/wwis-dubc1-vip57.adobe.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/wwis-dubc1-vip58.adobe.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/wwis-dubc1-vip59.adobe.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/wwis-dubc1-vip60.adobe.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/wwis-dubc1-vip61.adobe.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/wwis-dubc1-vip62.adobe.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/wwis-dubc1-vip63.adobe.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/wwis-dubc1-vip64.adobe.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/wwis-dubc1-vip65.adobe.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/wwis-dubc1-vip66.adobe.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/wwis-dubc1-vip67.adobe.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/wwis-dubc1-vip68.adobe.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/wwis-dubc1-vip69.adobe.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/wwis-dubc1-vip70.adobe.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/wwis-dubc1-vip71.adobe.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/wwis-dubc1-vip72.adobe.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/wwis-dubc1-vip73.adobe.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/wwis-dubc1-vip74.adobe.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/wwis-dubc1-vip75.adobe.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/wwis-dubc1-vip76.adobe.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/wwis-dubc1-vip77.adobe.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/wwis-dubc1-vip78.adobe.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/wwis-dubc1-vip79.adobe.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/wwis-dubc1-vip80.adobe.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/wwis-dubc1-vip81.adobe.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/wwis-dubc1-vip82.adobe.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/wwis-dubc1-vip83.adobe.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/wwis-dubc1-vip84.adobe.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/wwis-dubc1-vip85.adobe.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/wwis-dubc1-vip86.adobe.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/wwis-dubc1-vip87.adobe.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/wwis-dubc1-vip88.adobe.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/wwis-dubc1-vip89.adobe.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/wwis-dubc1-vip90.adobe.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/wwis-dubc1-vip91.adobe.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/wwis-dubc1-vip92.adobe.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/wwis-dubc1-vip93.adobe.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/wwis-dubc1-vip94.adobe.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/wwis-dubc1-vip95.adobe.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/wwis-dubc1-vip96.adobe.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/wwis-dubc1-vip97.adobe.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/wwis-dubc1-vip98.adobe.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/wwis-dubc1-vip99.adobe.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/wwitv.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/wwkejishe.top/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/wwmpcrn.ac.uk/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
@@ -32176,6 +32674,7 @@ h3://d2767290.6.00p.net:443/gd/h572767290
 [/yandexcloud.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/yanghengjun.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/yangjianli.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/yangzhi.app/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/yangzhi.org/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/yantaqu.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/yaohubaba.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
@@ -32617,6 +33116,7 @@ h3://d2767290.6.00p.net:443/gd/h572767290
 [/yt/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/yt.be/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/yt3.ggpht.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/yt3.googleusercontent.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/ytht.net/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/ytimg.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/ytn.co.kr/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
@@ -32699,6 +33199,7 @@ h3://d2767290.6.00p.net:443/gd/h572767290
 [/zeebioskop.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/zeebiz.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/zeeentertainment.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/zeenews-fonts.s3.amazonaws.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/zeenews.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/zeenite.com/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/zeetv.co.uk/]h3://8.8.8.8/dns-query quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
