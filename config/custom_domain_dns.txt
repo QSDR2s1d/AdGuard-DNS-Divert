@@ -16,7 +16,7 @@
 bing.com: quic://dns.alidns.com:853, https://doh.360.cn:443/dns-query
 
 # 腾讯系域名组合（含通配符，需程序支持）
-wx.tenpay.com/qqgame.com/wegame.com/tenpay.com/foxmail.com.cn/im.qq.com/*.tencent.com/*.weixin.com/weixin.qq.com/*.qqmusic.com/*.video.qq.com/*.itravelqq.com/*.qq.com: https://doh.pub/dns-query
+wx.tenpay.com/qqgame.com/wegame.com/tenpay.com/foxmail.com.cn/im.qq.com/*.tencent.com/*.weixin.com/weixin.qq.com/*.qqmusic.com/*.video.qq.com/*.itravelqq.com/*.qq.com: https://doh.pub:443/dns-query
 
 # 阿里系域名组合（含通配符，需程序支持）
 aliyun.com/*.aliyun.com/*.alibaba.com/*.taobao.com/*.tmall.com/*.alicdn.com/*.alipay.com/*.xiami.com/*.aliwangwang.com: quic://dns.alidns.com:853
