@@ -1,5 +1,5 @@
 # AdGuard Home DNS 分流配置 - 黑名单模式（逐条规则）
-# 自动生成于 2025-10-24 21:24:11
+# 自动生成于 2025-10-24 21:28:17
 # 黑名单模式：命中国外域名走国外DNS，其他走国内DNS
 # 包含自定义域名DNS规则
 
@@ -13,61 +13,59 @@ https://doh.18bit.cn/dns-query
 #==================================================
 # 自定义域名DNS规则（逐条规则输出）
 #==================================================
-[/*.360.cn/]https://doh.360.cn/dns-query
-[/*.360safe.com/]https://doh.360.cn/dns-query
-[/*.360totalsecurity.com/]https://doh.360.cn/dns-query
-[/*.alibaba.com/]https://dns.alidns.com/dns-query
-[/*.alicdn.com/]https://dns.alidns.com/dns-query
-[/*.alipay.com/]https://dns.alidns.com/dns-query
-[/*.aliwangwang.com/]https://dns.alidns.com/dns-query
-[/*.aliyun.com/]https://dns.alidns.com/dns-query
+[/*.360.cn/]https://doh.360.cn:443/dns-query
+[/*.360safe.com/]https://doh.360.cn:443/dns-query
+[/*.360totalsecurity.com/]https://doh.360.cn:443/dns-query
+[/*.alibaba.com/]quic://dns.alidns.com:853
+[/*.alicdn.com/]quic://dns.alidns.com:853
+[/*.alipay.com/]quic://dns.alidns.com:853
+[/*.aliwangwang.com/]quic://dns.alidns.com:853
+[/*.aliyun.com/]quic://dns.alidns.com:853
 [/*.baidu.com/]180.76.76.76
 [/*.baidubce.com/]180.76.76.76
 [/*.baidubos.com/]180.76.76.76
 [/*.baidubox.com/]180.76.76.76
 [/*.hao123.com/]180.76.76.76
-[/*.itravelqq.com/]https://doh.pub/dns-query
-[/*.ku6.com/]https://dns.alidns.com/dns-query
-[/*.qihoo.com/]https://doh.360.cn/dns-query
-[/*.qq.com/]https://doh.pub/dns-query
-[/*.qqmusic.com/]https://doh.pub/dns-query
-[/*.so.com/]https://doh.360.cn/dns-query
-[/*.taobao.com/]https://dns.alidns.com/dns-query
-[/*.tencent.com/]https://doh.pub/dns-query
-[/*.tmall.com/]https://dns.alidns.com/dns-query
-[/*.tudou.com/]https://dns.alidns.com/dns-query
-[/*.video.qq.com/]https://doh.pub/dns-query
-[/*.weixin.com/]https://doh.pub/dns-query
-[/*.xiami.com/]https://dns.alidns.com/dns-query
-[/*.ykimg.com/]https://dns.alidns.com/dns-query
-[/*.youku.com/]https://dns.alidns.com/dns-query
-[/360.cn/]https://doh.360.cn/dns-query
-[/360safe.com/]https://doh.360.cn/dns-query
-[/360totalsecurity.com/]https://doh.360.cn/dns-query
-[/aliyun.com/]https://dns.alidns.com/dns-query
+[/*.itravelqq.com/]https://doh.pub:443/dns-query
+[/*.ku6.com/]quic://dns.alidns.com:853
+[/*.qihoo.com/]https://doh.360.cn:443/dns-query
+[/*.qq.com/]https://doh.pub:443/dns-query
+[/*.qqmusic.com/]https://doh.pub:443/dns-query
+[/*.so.com/]https://doh.360.cn:443/dns-query
+[/*.taobao.com/]quic://dns.alidns.com:853
+[/*.tencent.com/]https://doh.pub:443/dns-query
+[/*.tmall.com/]quic://dns.alidns.com:853
+[/*.tudou.com/]quic://dns.alidns.com:853
+[/*.video.qq.com/]https://doh.pub:443/dns-query
+[/*.weixin.com/]https://doh.pub:443/dns-query
+[/*.xiami.com/]quic://dns.alidns.com:853
+[/*.ykimg.com/]quic://dns.alidns.com:853
+[/*.youku.com/]quic://dns.alidns.com:853
+[/360.cn/]https://doh.360.cn:443/dns-query
+[/360safe.com/]https://doh.360.cn:443/dns-query
+[/360totalsecurity.com/]https://doh.360.cn:443/dns-query
+[/aliyun.com/]quic://dns.alidns.com:853
 [/baidu.com/]180.76.76.76
 [/baidubce.com/]180.76.76.76
 [/baidubos.com/]180.76.76.76
 [/baidubox.com/]180.76.76.76
 [/bce.baidu.com/]180.76.76.76
-[/bing.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query
-[/foxmail.com.cn/]https://doh.pub/dns-query
+[/bing.com/]quic://dns.alidns.com:853 https://doh.360.cn:443/dns-query
+[/foxmail.com.cn/]https://doh.pub:443/dns-query
 [/hao123.com/]180.76.76.76
-[/im.qq.com/]https://doh.pub/dns-query
-[/qihoo.com/]https://doh.360.cn/dns-query
-[/qqgame.com/]https://doh.pub/dns-query
-[/so.com/]https://doh.360.cn/dns-query
-[/steamcommunity.com/]https://185.222.222.222/dns-query https://45.11.45.11/dns-query
-[/store.steampowered.com/]https://185.222.222.222/dns-query https://45.11.45.11/dns-query
-[/tenpay.com/]https://doh.pub/dns-query
-[/wegame.com/]https://doh.pub/dns-query
-[/weixin.qq.com/]https://doh.pub/dns-query
-[/wx.tenpay.com/]https://doh.pub/dns-query
-[/youku.com/]https://dns.alidns.com/dns-query
+[/im.qq.com/]https://doh.pub:443/dns-query
+[/qihoo.com/]https://doh.360.cn:443/dns-query
+[/qqgame.com/]https://doh.pub:443/dns-query
+[/so.com/]https://doh.360.cn:443/dns-query
+[/tenpay.com/]https://doh.pub:443/dns-query
+[/wegame.com/]https://doh.pub:443/dns-query
+[/weixin.qq.com/]https://doh.pub:443/dns-query
+[/wx.tenpay.com/]https://doh.pub:443/dns-query
+[/youku.com/]quic://dns.alidns.com:853
 
 #==================================================
-# 国外域名规则（共 33331 个域名，逐条规则）
-# 已排除 19 个自定义DNS域名（含通配符模糊覆盖）
+# 国外域名规则（共 33333 个域名，逐条规则）
+# 已排除 17 个自定义DNS域名（含通配符模糊覆盖）
 #==================================================
 [/000webhost.com/]h3://8.8.8.8/dns-query h3://v.recipes/dns-cn quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/01.org/]h3://8.8.8.8/dns-query h3://v.recipes/dns-cn quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
@@ -27111,6 +27109,7 @@ https://doh.18bit.cn/dns-query
 [/steamcloudsweden.blob.core.windows.net/]h3://8.8.8.8/dns-query h3://v.recipes/dns-cn quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/steamcommunity-a.akamaihd.net/]h3://8.8.8.8/dns-query h3://v.recipes/dns-cn quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/steamcommunity-a.akamaihd.net.edgesuite.net/]h3://8.8.8.8/dns-query h3://v.recipes/dns-cn quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/steamcommunity.com/]h3://8.8.8.8/dns-query h3://v.recipes/dns-cn quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/steamcontent.com/]h3://8.8.8.8/dns-query h3://v.recipes/dns-cn quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/steamdb.info/]h3://8.8.8.8/dns-query h3://v.recipes/dns-cn quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/steamdeck.com/]h3://8.8.8.8/dns-query h3://v.recipes/dns-cn quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
@@ -27212,6 +27211,7 @@ https://doh.18bit.cn/dns-query
 [/store-bridgestonesports.com/]h3://8.8.8.8/dns-query h3://v.recipes/dns-cn quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/store.apple.com.edgekey.net/]h3://8.8.8.8/dns-query h3://v.recipes/dns-cn quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/store.sprite.org/]h3://8.8.8.8/dns-query h3://v.recipes/dns-cn quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
+[/store.steampowered.com/]h3://8.8.8.8/dns-query h3://v.recipes/dns-cn quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/storesense.com/]h3://8.8.8.8/dns-query h3://v.recipes/dns-cn quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/stories.google/]h3://8.8.8.8/dns-query h3://v.recipes/dns-cn quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/storiesofchange.ac.uk/]h3://8.8.8.8/dns-query h3://v.recipes/dns-cn quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
