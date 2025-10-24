@@ -1,10 +1,11 @@
 # AdGuard Home DNS 分流配置 - 白名单模式
-# 自动生成于 2025-10-24 21:21:34
+# 自动生成于 2025-10-24 21:23:09
 # 白名单模式：命中国内域名走国内DNS，其他走国外DNS
 # 包含自定义域名DNS规则
 
 # 默认上游DNS服务器（国外）
 h3://8.8.8.8/dns-query
+h3://v.recipes/dns-cn
 quic://dns-easy.727672.xyz:853
 quic://dns-rack.727672.xyz:853
 
