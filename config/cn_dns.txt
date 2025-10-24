@@ -1,5 +1,5 @@
 quic://dns.alidns.com:853
-https://doh.360.cn:443
+https://doh.360.cn:443/dns-query
 https://sm2.doh.pub:443/dns-query
 h3://d2767290.6.00p.net:443/gd/h572767290
 https://doh.18bit.cn/dns-query
