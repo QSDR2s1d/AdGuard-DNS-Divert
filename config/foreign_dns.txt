@@ -1,3 +1,4 @@
 h3://8.8.8.8/dns-query
+h3://v.recipes/dns-cn
 quic://dns-easy.727672.xyz:853
 quic://dns-rack.727672.xyz:853
