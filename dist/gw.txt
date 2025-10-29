@@ -1,5 +1,5 @@
 # AdGuard Home DNS 分流配置 - 黑名单模式（逐条规则）
-# 自动生成于 2025-10-28 09:44:00
+# 自动生成于 2025-10-29 09:50:37
 # 黑名单模式：命中国外域名走国外DNS，其他走国内DNS
 # 包含自定义域名DNS规则
 
@@ -64,7 +64,7 @@ https://doh.18bit.cn/dns-query
 [/youku.com/]quic://dns.alidns.com:853
 
 #==================================================
-# 国外域名规则（共 33337 个域名，逐条规则）
+# 国外域名规则（共 33333 个域名，逐条规则）
 # 已排除 17 个自定义DNS域名（含通配符模糊覆盖）
 #==================================================
 [/000webhost.com/]h3://8.8.8.8/dns-query h3://v.recipes/dns-cn quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
@@ -13226,8 +13226,6 @@ https://doh.18bit.cn/dns-query
 [/h-moe.com/]h3://8.8.8.8/dns-query h3://v.recipes/dns-cn quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/h-top.supertop-100.com/]h3://8.8.8.8/dns-query h3://v.recipes/dns-cn quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/h-webtoon.com/]h3://8.8.8.8/dns-query h3://v.recipes/dns-cn quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
-[/h.Z/]h3://8.8.8.8/dns-query h3://v.recipes/dns-cn quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
-[/h.ZZ/]h3://8.8.8.8/dns-query h3://v.recipes/dns-cn quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/h0930.com/]h3://8.8.8.8/dns-query h3://v.recipes/dns-cn quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/h18ani1.vip/]h3://8.8.8.8/dns-query h3://v.recipes/dns-cn quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/h1n1china.org/]h3://8.8.8.8/dns-query h3://v.recipes/dns-cn quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
@@ -33159,8 +33157,6 @@ https://doh.18bit.cn/dns-query
 [/z-lib.org/]h3://8.8.8.8/dns-query h3://v.recipes/dns-cn quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/z-library.se/]h3://8.8.8.8/dns-query h3://v.recipes/dns-cn quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/z-library.sk/]h3://8.8.8.8/dns-query h3://v.recipes/dns-cn quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
-[/z.h/]h3://8.8.8.8/dns-query h3://v.recipes/dns-cn quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
-[/z.z/]h3://8.8.8.8/dns-query h3://v.recipes/dns-cn quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/z00.world/]h3://8.8.8.8/dns-query h3://v.recipes/dns-cn quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/z18r.co/]h3://8.8.8.8/dns-query h3://v.recipes/dns-cn quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853
 [/z18r.com/]h3://8.8.8.8/dns-query h3://v.recipes/dns-cn quic://dns-easy.727672.xyz:853 quic://dns-rack.727672.xyz:853

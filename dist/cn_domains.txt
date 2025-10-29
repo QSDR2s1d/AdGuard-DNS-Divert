@@ -73191,7 +73191,6 @@ o-home.com
 o-hr.com
 o-netcom.com
 o-star.cc
-o.m
 o.pki.goog
 o0-2.com
 o02220aokk.com
@@ -73968,7 +73967,6 @@ opython.com
 oqrstu.com
 oqss.com
 or-sun.com
-orZ.u
 oracle.com
 oraev.com
 orafl.com
